@@ -1,22 +1,26 @@
-# Getting Started
+# Birthday Card
 
-Install the dependencies and run the project
+A fun and interactive birthday card webpage featuring playful hover effects.
 
-```
-npm install
-npm start
-```
+## Demo
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+[Live Demo](https://1birthday-card1.netlify.app/)
 
-## About Scrimba
+## Features
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Interactive birthday card design 
+- Playful hover effects 
+- Fun animations and visual elements
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Technologies
 
-Happy Coding!
+- HTML
+- CSS
+
+## Screenshot
+
+![Project screenshot](images/birthday-card.png)
+
+## What I Learned
+
+I learned how to create an interactive webpage using HTML and CSS, including hover effects and creative styling to make the birthday card fun and engaging.
