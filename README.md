@@ -19,7 +19,7 @@ A fun and interactive birthday card webpage featuring playful hover effects.
 
 ## Screenshot
 
-![Project screenshot](images/birthday-card.png)
+![Project screenshot](media/birthday-card.png)
 
 ## What I Learned
 
